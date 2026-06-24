@@ -1,11 +1,8 @@
-# VTFireNet
-# 基于跨模态Transformer融合的可见光与热红外火焰目标检测网络
+# 基于跨模态Transformer融合的可见光与热红外火焰目标检测网络（VTFireNet）
 
 <img width="2048" height="2048" alt="跨模态Transformer融合模块详解_带输入" src="https://github.com/user-attachments/assets/eda7c6cb-2bf1-4718-b429-a0db34be3f26" />
 
-# Dual Modality Fire Detection Network
 
-基于跨模态Transformer融合的可见光与热红外火焰目标检测网络
 
 ## Network Architecture Overview
 
